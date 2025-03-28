@@ -33,6 +33,13 @@ Ce projet est structuré en deux parties principales : **Frontend** et **Backend
 
 1. **Cloner le projet** :  
    ```bash
-   git clone <url_du_repository>
+   git clone https://github.com/Bendahmad/shafi.git
+   cd frontend
+    npm install
+    npm run dev
+
+    cd backend
+    npm install
+    npm run dev
 
 
