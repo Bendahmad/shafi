@@ -1,5 +1,5 @@
-# SHAFII
-Bienvenue dans le projet **SHAFII**
+# SHAFI
+Bienvenue dans le projet **SHAFI**
 
 ## ⚙️ Installation et Configuration  
 
